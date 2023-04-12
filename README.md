@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Andrei</h1>
 <h3 align="center">A passionate React developer!</h3>
 
+<p align="center" style="text-align: center; width: max-content"><img align="center"  src="https://github-profile-trophy.vercel.app/?username=andreimedvedevsaratov&title=Repositories,Commit,PullRequest" alt="AndreiMedvedevSaratov" /></p>
+
+- 💪 I like to write code!
+- 🎉 I love swimming and walking!
+- 🥅 I am constantly learning new technologies!
+- 👯 I’m looking to collaborate on some React projects
+
+
+
 <!--
 **AndreiMedvedevSaratov/AndreiMedvedevSaratov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
