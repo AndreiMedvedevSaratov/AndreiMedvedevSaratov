@@ -49,6 +49,8 @@
 ### Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/andrei-medvedev-frontend/)
+e-mail: andreiok@gmail.com
+tel / wiber / whats'up / telegram: +7-917-215-19-68
 
 <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andreimedvedevsaratov&show_icons=true&locale=en&layout=compact&count_private=true" alt="ggnk" /></p>
 
