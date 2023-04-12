@@ -46,6 +46,14 @@
 
 ![etc.](https://img.shields.io/badge/-and_much_more-blue?style=for-the-badge&logo=and-much-more)
 
+### Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/andrei-medvedev-frontend/)
+
+<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andreimedvedevsaratov&show_icons=true&locale=en&layout=compact&count_private=true" alt="ggnk" /></p>
+
+<p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andreimedvedevsaratov&show_icons=true&locale=en&count_private=true&hide=stars,issues" alt="ggnk" /></p>
+
 <!--
 **AndreiMedvedevSaratov/AndreiMedvedevSaratov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
