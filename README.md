@@ -51,7 +51,9 @@
 [![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/greatandrei)
 [![LinkedIn](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/andrei-medvedev-frontend/)<br>
 e-mail: andreiok@gmail.com<br>
-tel / wiber / whats'up / telegram: +7-917-215-19-68
+
+<h2>В настоящее время ищу работу React разработчиком</h2>
+<p align="center">Скачать мое актуальное резюме <a href="./cv.pdf" target="_blanck">здесь</a></p>
 
 <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andreimedvedevsaratov&show_icons=true&locale=en&layout=compact&count_private=true" alt="ggnk" /></p>
 
