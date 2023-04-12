@@ -8,6 +8,17 @@
 - 🥅 I am constantly learning new technologies!
 - 👯 I’m looking to collaborate on some React projects
 
+<br>
+<br>
+<br>
+
+<h2>В настоящее время ищу работу React разработчиком</h2>
+<p align="center">Скачать мое актуальное резюме <a href="./cv.pdf" target="_blanck">здесь</a></p>
+
+<br>
+<br>
+<br>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a>
