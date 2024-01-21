@@ -52,6 +52,7 @@
 ### Connect with me:
 
 <h4 align="center">Portfolio - https://frontendclub.ru</h4>
+
 [![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/greatandrei)
 [![LinkedIn](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/andrei-medvedev-frontend/)<br>
 e-mail: andreiok@gmail.com<br>
