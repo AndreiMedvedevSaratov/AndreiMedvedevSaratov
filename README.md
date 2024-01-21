@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andrei</h1>
 <h3 align="center">A passionate React developer!</h3>
+<h4 align="center">Portfolio - [https://www.linkedin.com/in/andrei-medvedev-frontend/](https://frontendclub.ru)</h4>
 
 <p align="center" style="text-align: center; width: max-content"><img align="center"  src="https://github-profile-trophy.vercel.app/?username=andreimedvedevsaratov&title=Repositories,Commit,PullRequest" alt="AndreiMedvedevSaratov" /></p>
 
@@ -50,6 +51,7 @@
 
 ### Connect with me:
 
+<h4 align="center">Portfolio - [https://www.linkedin.com/in/andrei-medvedev-frontend/](https://frontendclub.ru)</h4>
 [![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/greatandrei)
 [![LinkedIn](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/andrei-medvedev-frontend/)<br>
 e-mail: andreiok@gmail.com<br>
