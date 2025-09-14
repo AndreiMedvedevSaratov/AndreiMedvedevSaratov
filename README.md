@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrei</h1>
-<h3 align="center">A passionate React developer!</h3>
+<h3 align="center">A passionate Senior React developer!</h3>
 <h4 align="center">Portfolio - https://frontendclub.ru</h4>
 
 <p align="center" style="text-align: center; width: max-content"><img align="center"  src="https://github-profile-trophy.vercel.app/?username=andreimedvedevsaratov&title=Repositories,Commit,PullRequest" alt="AndreiMedvedevSaratov" /></p>
